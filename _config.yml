@@ -51,3 +51,5 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+minima:
+  skin: solarized-dark

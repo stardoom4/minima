@@ -1,5 +1,9 @@
 ---
-title: Before Mahabharat
+layout: post
+title: Pre Mahabharat
+categories: Hinduism
+author:
+- Garuda
 ---
 ![Mahabharat](https://images.herzindagi.info/image/2023/Mar/mahabharat-people-who-are-still-alive-story.jpg)
 

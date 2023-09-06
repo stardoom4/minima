@@ -125,12 +125,12 @@
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
   background: #540b0d;
-  font-color: #ffffff;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * .5;
+  color: #fff;
 }
 
 .feed-subscribe .svg-icon {

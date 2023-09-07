@@ -11,3 +11,5 @@ title: Home
 
 <center><h2>Site is being developed by Garuda.</h2></center>
 <p>You can read this article about Mahabharat While you wait. - <a href="https://garud.netlify.app/hinduism/2023/09/05/before-mahabharat">Click Here to read the Article</a></p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/054caec6-ca70-40ad-a294-a300c780134f/deploy-status)](https://app.netlify.com/sites/garud/deploys)

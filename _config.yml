@@ -48,7 +48,6 @@ social_links:
 header_pages:
   - about.md
   - archive.md
-  - notes.md
 
 # Set to `true` to show excerpts on the homepage.
 #
